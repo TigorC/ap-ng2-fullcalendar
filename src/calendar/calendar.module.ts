@@ -1,5 +1,5 @@
 import { NgModule, ModuleWithProviders } from "@angular/core";
-import { CalendarComponent } from './src/calendar/calendar';
+import { CalendarComponent } from './calendar';
 import { CommonModule } from "@angular/common";
 
 @NgModule({
