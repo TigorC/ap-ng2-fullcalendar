@@ -1,6 +1,6 @@
 {
-  "name": "ap-angular2-fullcalendar",
-  "version": "1.3.7",
+  "name": "sq-angular2-fullcalendar",
+  "version": "1.3.8",
   "description": "Angular2 component for FullCalendar",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lbertenasco/ap-ng2-fullcalendar.git"
+    "url": "git+https://github.com/TigorC/ap-ng2-fullcalendar.git"
   },
   "keywords": [
     "fullcalendar",
@@ -21,16 +21,16 @@
   "author": "Luciano Bertenasco <lbertenasco@gmail.com> ()",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lbertenasco/ap-ng2-fullcalendar/issues"
+    "url": "https://github.com/TigorC/ap-ng2-fullcalendar/issues"
   },
-  "homepage": "https://github.com/lbertenasco/ap-ng2-fullcalendar#readme",
+  "homepage": "https://github.com/TigorC/ap-ng2-fullcalendar#readme",
   "dependencies": {
     "@angular/common": "^5.x.x",
     "@angular/core": "^5.x.x",
     "@angular/forms": "^5.x.x",
-    "@types/fullcalendar": "3.5.2",
+    "@types/fullcalendar": "3.8.0",
     "@types/jquery": "3.2.17",
-    "fullcalendar": "3.6.2"
+    "fullcalendar": "3.9.0"
   },
   "devDependencies": {
     "@angular/compiler": "^5.x.x",
